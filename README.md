@@ -5,6 +5,6 @@
 In recent days, SVD has surfaced as a current method in the discipline of image processing, specifically in the environment of image compression. Particularly, in this exercise, SVD is applied to image compression using Python 3.
 
 - Programming Lenguaje: Python.
-- Main libraries: matplotlib, numpy, scipy.
+- Main libraries: matplotlib, numpy, scipy, dask
 - Author: Fernando Beneytez.
 - Tutor/mentor: Raquel Orallo.
